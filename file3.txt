@@ -1,1 +1,3 @@
+<<<<<<< HED
 Hi this file in Function1 Branch
+======
